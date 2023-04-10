@@ -56,7 +56,7 @@
                                         fill="currentColor" />
                                 </svg>
                             </span>
-                            <!--end::Svg Icon--> <input type="text" data-kt-materi-table-filter="search"
+                            <!--end::Svg Icon--> <input type="search" data-kt-materi-table-filter="search"
                                 class="form-control form-control-solid w-100 ps-15" placeholder="Search Materis" />
                         </div>
                         <!--end::Search-->

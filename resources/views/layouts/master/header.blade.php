@@ -31,7 +31,7 @@
             <!--end::Logo-->
 
             <!--begin::Aside toggler-->
-            <div class="btn btn-icon w-auto ps-0 btn-active-color-primary d-none d-lg-inline-flex me-2 me-lg-5 "
+            <div class="btn btn-icon w-auto ps-0 btn-active-color-primary active d-none d-lg-inline-flex me-2 me-lg-5 "
                 data-kt-toggle="true" data-kt-toggle-state="active" data-kt-toggle-target="body"
                 data-kt-toggle-name="aside-minimize">
 
